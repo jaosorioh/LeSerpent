@@ -1,22 +1,25 @@
-# Juego - Le Serpent
+# Game - Le Serpent
 
-En este repositorio encontrará todos los archivos correspondientes al desarrollo del juego Snake en lenguaje C++
+In this repository, you will find all the files related to the development of the Snake game in C++
 
 --- 
 
-- **include/** contiene todos los archivos *.h* con los prototipos de las clases usadas
-- **src/** contiene todos los archivos *.cpp* que implementan los métodos y atributos de cada clase
-- **Main.cpp** ejecuta el juego Le Serpent
+- **include/** contains all the *.h* files with the prototypes of the classes used
+- **src/** contains all the *.cpp* files that implement the methods and attributes of each class
+- **Main.cpp** runs the Le Serpent game
 
-Cualquier inquietud o información adicional, puede comunicarse con cualquiera de los contribuidores de este repositorio.
+If you have any questions or need additional information, please contact any of the contributors to this repository.
 
 ---
 
-**PARA JUGAR**
+**TO PLAY**
 
-Si desea jugar solo debe tener todos los archivos de este repositorio en una copia local y, ejecutar el archivo .py dependiendo de su sistema operativo.
+To play, simply have all the files from this repository in a local copy and run the .py file depending on your operating system.
 
-- Si tiene Linux use: `python send.py`
-- Si tiene Mac use: `python send_nico.py`
+- If you are using Linux, use: `python send.py`
+- If you are using a Mac, use: `python send_nico.py`
 
-En caso que el comando `resize` no funcione, le pedimos por favor revise si tiene instalada dicha linea de comando para modificar el tamaño de la consola. 
+If the `resize` command does not work, please check to see if you have the command line tool installed to adjust the console size. 
+
+
+Translated with DeepL.com (free version)
